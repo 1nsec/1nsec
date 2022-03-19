@@ -5,7 +5,7 @@
 <a href="https://youtu.be/grB7Uof4TVA" target="blank"><img align="center" alt="GIF" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /></a>
 
 
-<p align="center">Opa!, me chamo 1nsec, tenho 16 anos e atualmente estou morando no Rio Grande Do Sul, Brasil. Sou dono de um server pequeno, Mas em breve seremos grandes.
+<p align="center">Opa!, me chamo 1nsec, tenho 16 anos e atualmente estou morando no Rio Grande Do Sul, Brasil. Sou dono da Casa Pleta.
 </p>
 
 
