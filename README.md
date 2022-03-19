@@ -9,7 +9,8 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=1nsec" alt="maykbrito" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=1nsec&color=blueviolet" alt="maykbrito" /> </p>
+
 
 #                                                                    *Minhas redes sociais:*
 
