@@ -16,7 +16,7 @@
 
 <p align="center">
 <a href="https://twitter.com/Deadisconnect" target="blank"><img align="center" src="https://www.gifservice.fr/img/gif-vignette-small/08fbc16f6a87f07f35676122a339b6c0/51748-multi-media-computer-software-internet-twitter.gif" alt="1nsec" height="50" width="50" /></a>
-<a href="https://instagram.com/deadisconnect" target="blank"><img align="center" src="https://media0.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" alt="1nsec" height="50" width="50" /></a>
+<a href="https://instagram.com/deleted1nsec" target="blank"><img align="center" src="https://media0.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" alt="1nsec" height="50" width="50" /></a>
 </p>
 
 
