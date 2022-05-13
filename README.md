@@ -5,7 +5,7 @@
 <a href="https://youtu.be/grB7Uof4TVA" target="blank"><img align="center" alt="GIF" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /></a>
 
 
-<p align="center">Opa!, me chamo 1nsec, tenho 16 anos e atualmente estou morando no Rio Grande Do Sul, Brasil. Usuário 2017 ja coloquei pobres em cargos altos, fui acusado de ser explanador, derrubei mais de 100 servidores, fiz muitos de escravos e hoje eles me odeiam.
+<p align="center">Opa!, me chamo 1nsec, tenho 16 anos e atualmente estou morando no Rio Grande Do Sul, Brasil. Usuário 2017 ja coloquei pobres em cargos altos, fui acusado de ser scammer, derrubei mais de 100 servidores, fiz muitos de escravos e hoje eles me odeiam.
 </p>
 
 
