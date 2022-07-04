@@ -34,10 +34,10 @@
 
 
 
-#                                                                    **DISCORD**
+#                                                                    **Youtube**
 
 
-**Discord Server**
+**Youtube Video**
 
 
 <a href="https://youtu.be/NbNoMuYuCyA" target="blank"><img align="right" alt="GIF" src="https://static.wixstatic.com/media/6bffcc_c6098b1dd9a542e18db4ad64699be580.gif" /></a>
