@@ -34,7 +34,7 @@
 **Discord Server**
 
 
-<a href="https://youtu.be/8uvZgisgX5I" target="blank"><img align="right" alt="GIF" src="https://static.wixstatic.com/media/6bffcc_c6098b1dd9a542e18db4ad64699be580.gif" /></a>
+<a href="https://youtu.be/NbNoMuYuCyA" target="blank"><img align="right" alt="GIF" src="https://static.wixstatic.com/media/6bffcc_c6098b1dd9a542e18db4ad64699be580.gif" /></a>
 <p align="center">
 <a href="https://discord.gg/realplug" target="blank"><img align="center" src="https://discordemoji.com/assets/emoji/3702_party_discord.gif" alt="discord" height="60" width="60"/></a>
 </p>
