@@ -28,10 +28,9 @@
 
 #                                                                    *My PC*
 
-      Processador Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz   3.50 GHz 
-      Placa de Video Gtx 750 1Gb
-      Ram 12 GB DDR3
-
+      Processador Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz   2.90 GHz
+      Placa de Video GPU AMD Radeon RX 6600 8gb
+      Ram 16 GB DDR4
 
 
 #                                                                    **Youtube**
