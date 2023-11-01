@@ -21,7 +21,7 @@
 #                                                                    *Minhas redes sociais:*
 
 <p align="center">
-<a href="https://twitter.com/not1nsec" target="blank"><img align="center" src="https://www.gifservice.fr/img/gif-vignette-small/08fbc16f6a87f07f35676122a339b6c0/51748-multi-media-computer-software-internet-twitter.gif" alt="1nsec" height="50" width="50" /></a>
+<a href="https://twitter.com/1nsecore" target="blank"><img align="center" src="https://www.gifservice.fr/img/gif-vignette-small/08fbc16f6a87f07f35676122a339b6c0/51748-multi-media-computer-software-internet-twitter.gif" alt="1nsec" height="50" width="50" /></a>
 <a href="https://instagram.com/1nsecore" target="blank"><img align="center" src="https://media0.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" alt="1nsec" height="50" width="50" /></a>
 </p>
 
