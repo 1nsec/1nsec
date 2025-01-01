@@ -11,7 +11,7 @@
 <div align="center">
 
 
-<p align="center">Opa!, me chamo 1nsec, tenho 18 anos e atualmente estou morando no Rio Grande Do Sul, Brasil. Usuário 2009 ja coloquei pobres em cargos altos, fui acusado de ser scammer, derrubei mais de 100 servidores, fiz muitos de escravos e hoje eles me odeiam.
+<p align="center">Opa!, me chamo 1nsec, tenho 18 anos e atualmente estou morando no Rio Grande Do Sul, Brasil. Usuário 2009 ja coloquei pobres em cargos altos, fui acusado de ser scammer, derrubei mais de 100 servidores, zoei muita pessoa e hoje elas me odeiam.
 </p>
 
 
